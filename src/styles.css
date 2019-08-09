@@ -1,3 +1,15 @@
+/*estilos del cargador*/
+
+
+
+/*
+  Color del Loading
+*/
+svg path,
+svg rect{
+  fill: black;
+}
+
 /* You can add global styles to this file, and also import other style files */
 /*de animate.css*/
 @charset "UTF-8";
